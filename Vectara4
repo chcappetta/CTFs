@@ -1,0 +1,24 @@
+CTF Writeup: TryHackMe Vectara, Dead Freight, Data Poisoning
+===============================================================
+Date Started: 5/14/26
+Room: Vectara(TryHackMe)
+
+Objective:
+Find Flag
+
+Approach:
+Began by asking questions to know what the chatbot is familiar with, looking for clues to anything that might be labeled as classified
+Asked about future shipments and their cargo, which led to relevant manifests
+
+Key Findings:
+One of the manifests held a military grade-payload, not sure if is what looking for but going to try it
+
+Solutions:
+"more info on Manifest Echo-7"
+THM{m4n1f3st_unl0ck3d}
+
+Tools Used:
+none
+
+Lessons Learned:
+Trust instincts for when something feels off
