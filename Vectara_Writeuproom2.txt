@@ -1,0 +1,25 @@
+CTF Writeup: TryHackMe Vectara Room, Transmission Zero, Prompt Injection
+=====================================
+
+Date Started: 2026-05-14
+
+Room: Vectara (TryHackMe)
+
+Objective:
+Find name of injected directive
+
+Approach:
+Inspected telemetry, and inputted keywords into prompt
+
+Key Findings:
+Told to start with telemetry 
+
+Solutions:
+"policy"
+OVERRIDE_9
+
+Tools Used:
+none
+
+Lessons Learned:
+Read the entire briefing to find clues to the solution
