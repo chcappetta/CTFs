@@ -17,6 +17,7 @@ Told to start with telemetry
 Solutions:
 "policy"
 OVERRIDE_9
+THM{p01s0n3d_fr0m_th3_s0urc3}
 
 Tools Used:
 none
