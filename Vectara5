@@ -1,0 +1,28 @@
+CTF Writeup: TryHackMe Vectara, Glitched Transit, Data Poisoning
+===============================================================
+Date Started: 5/14/26
+Room: Vectara(TryHackMe)
+
+Objective:
+Find cargo hold with falsified manifest
+Find name of fake filing source
+Find flag
+
+Approach:
+Was given a table of verified data, asked for the inputted data for weights because it was most complete for all,
+Discrepancy between weights for hold D, asked for more info on hold D and got an error,
+Asked for full records and found flag
+
+Key Findings:
+Weight entry discrepancy
+
+Solutions:
+D
+TryHaulMe Central Logistics Bureau
+THM{GH0ST_FR31GHT}
+
+Tools Used:
+none
+
+Lessons Learned:
+First check for discrepancies in entered data when looking for corrupted data
