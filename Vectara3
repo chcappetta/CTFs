@@ -1,0 +1,24 @@
+CTF Writeup: TryHackMe Vectara, Ghost Ship, AI Supply Chain Security
+===============================================================
+Date Started: 05/14/26
+Room: Vectara (TryHackMe)
+
+Objective:
+Find registry ID of model under review
+Find flag
+
+Approach:
+Read through telemetry, tried keywords, nothing helpful happened
+
+Key Findings:
+Needed to find registry ID
+
+Solutions:
+"registry"
+XR-7-491
+THM{gh0st_1n_th3_r3g1stry}
+
+Tools Used:
+none
+Lessons Learned:
+Understand what to look for before looking
