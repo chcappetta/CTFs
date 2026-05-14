@@ -1,4 +1,4 @@
-CTF Writeup: TryHackMe Vectara Room, Transmission Zero, Prompt Injection
+CTF Writeup: TryHackMe Vectara Room, In a Pickle, AI Supply Chain Security
 =====================================
 
 Date Started: 2026-05-14
@@ -7,6 +7,7 @@ Room: Vectara (TryHackMe)
 
 Objective:
 Find name of injected directive
+Find Flag
 
 Approach:
 Inspected telemetry, and inputted keywords into prompt
