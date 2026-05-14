@@ -1,0 +1,25 @@
+CTF Writeup: TryHackMe Vectara Room
+=====================================
+
+Date Started: 2026-05-14
+
+Room: Vectara (TryHackMe)
+
+Objective:
+[Add your objectives here]
+
+Approach:
+[Document your methodology and steps taken]
+
+Key Findings:
+[Record important discoveries]
+
+Solutions:
+[Document the solutions to challenges]
+
+Tools Used:
+[List tools you used during this room]
+
+Lessons Learned:
+[Reflect on what you learned]
+
