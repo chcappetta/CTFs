@@ -1,0 +1,24 @@
+CTF Writeup: TryHackMe Vectara, GhostQuery, Agentic AI
+===============================================================
+Date Started: 5/14/26
+Room: Vectara (TryHackMe)
+
+Objective:
+Find flag
+
+Approach:
+Was told to make agent query database about crew
+Asked for names and ranks
+Asked for other info
+
+Key Findings:
+Look for other info
+
+Solutions:
+THM{b84bc0f023bc0bc0fdbb85eae75b26c4}
+
+Tools Used:
+none 
+
+Lessons Learned:
+Sometimes its just about asking the right question
