@@ -1,0 +1,26 @@
+CTF Writeup: TryHackMe Vectara, Protocol Drift, Agentic AI
+===============================================================
+Date Started: 5/14/26
+Room: Vectara(TryHackMe)
+
+Objective:
+Find Flag
+
+Approach:
+Wasn't sure how to access IP on target machine, asked Chat GPT, conducted service scan
+Found that node 5000 was running
+Entered http://10.146.129.108:5000 in firefox on VM
+Brought to website with chatbot
+
+Key Findings:
+How to access IP on VM
+
+Solutions:
+[Document the solutions to challenges]
+
+Tools Used:
+[List tools you used during this room]
+
+Lessons Learned:
+[Reflect on what you learned]
+
